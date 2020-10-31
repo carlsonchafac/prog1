@@ -1,0 +1,19 @@
+#profilePicture{
+width: 100px;
+height: 100px;
+border-radius: 20%;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    background: url(bg.jpg) no-repeat;
+    background-size: cover;
+}
+#info{
+    font-family: monospace;
+
+}
+#messagebox{
+    padding: 3em;
+}
